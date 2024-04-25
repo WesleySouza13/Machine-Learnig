@@ -1,4 +1,4 @@
 # Machine-Learning ----
-aqui publico meus estudos de ML
-os datasets podem ser encotrados no Kaggle com facilidade. 
-os modelos podem possuir erros e inconsistencias, pois se tratam de estudos pessoais.
+aqui publico meus estudos de ML!
+Os datasets podem ser encotrados no Kaggle com facilidade. 
+Os modelos podem possuir erros e inconsistencias, pois se tratam de estudos pessoais.
